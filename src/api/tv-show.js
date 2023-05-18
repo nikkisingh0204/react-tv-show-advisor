@@ -1,6 +1,4 @@
 import axios from 'axios';
-// 'https://api.themoviedb.org/3/discover/tv?include_adult=false&sort_by=popularity.desc&api_key={api_key}' 
-//  b306b9d53bc7189ad69dc0ef00c813e9
 import { BASE_URL,API_KEY } from '../config';
 
 
